@@ -1,0 +1,12 @@
+class BoolDemo{
+    public static void main(String args[]){
+        boolean b;
+
+        b = true;
+
+        //if(b)
+            System.out.println("Instruction is executed");
+        System.out.println("Peзyльтaт сравнения 10 > 9: "+ (10 > 9));
+    }
+
+}
