@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f9f77cc-9b33-4776-a35f-45d277ed34a3" name="Default Changelist" comment="" />
+    <list default="true" id="6f9f77cc-9b33-4776-a35f-45d277ed34a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_17_FX/FXSkelet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,43 +21,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_16_Swing/SwingFC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="21" selection-end-line="105" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/project_16_Swing/Task_17_Swing.java">
+        <entry file="file://$PROJECT_DIR$/project_17_FX/FXSkelet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="71" column="65" selection-start-line="71" selection-start-column="65" selection-end-line="71" selection-end-column="65" />
+            <state relative-caret-position="510">
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_10/CompFiles.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="17" selection-start-line="29" selection-start-column="16" selection-end-line="32" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/project_16_Swing/CheckBoxDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,10 +50,12 @@
       <find>OUTERR</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/project_14/MyIntPredicates.java" />
         <option value="$PROJECT_DIR$/project_14/MethodRefDemo.java" />
         <option value="$PROJECT_DIR$/project_14/MethodRefDemo2.java" />
         <option value="$PROJECT_DIR$/project_14/MyintNumPredicate.java" />
@@ -129,20 +106,22 @@
         <option value="$PROJECT_DIR$/project_16_Swing/SwingFC.java" />
         <option value="$PROJECT_DIR$/project_16_Swing/MySwingApplet.java" />
         <option value="$PROJECT_DIR$/project_16_Swing/Task_17_Swing.java" />
+        <option value="$PROJECT_DIR$/project_17_FX/FXSkelet.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="230" />
-    <option name="y" value="-13" />
+    <option name="y" value="-14" />
     <option name="width" value="980" />
-    <option name="height" value="1049" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,22 +132,17 @@
             <path>
               <item name="Java first project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="project_10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java first project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="project_16_Swing" type="462c0819:PsiDirectoryNode" />
+              <item name="project_17_FX" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -193,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task_17_Swing">
+  <component name="RunManager" selected="Application.FXSkelet">
     <configuration name="MySwingApplet" type="Applet" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project_16_Swing.MySwingApplet" />
       <module name="Java Projects" />
@@ -201,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckBoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project_16_Swing.CheckBoxDemo" />
+    <configuration name="FXSkelet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project_17_FX.FXSkelet" />
       <module name="Java Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project_16_Swing.*" />
+          <option name="PATTERN" value="project_17_FX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FXSkelet" />
         <item itemvalue="Application.Task_17_Swing" />
         <item itemvalue="Applet.MySwingApplet" />
         <item itemvalue="Application.SwingFC" />
         <item itemvalue="Application.ListDemo" />
-        <item itemvalue="Application.CheckBoxDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +254,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.19261745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.19530201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -323,13 +297,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/project_14/ClassMyArrayCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_14/Exercizes/Task_8_MyFunc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -717,13 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project_10/CompFiles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="17" selection-start-line="29" selection-start-column="16" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_16_Swing/CheckBoxDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -736,10 +696,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project_16_Swing/Task_17_Swing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="71" column="65" selection-start-line="71" selection-start-column="65" selection-end-line="71" selection-end-column="65" />
+        <state relative-caret-position="153">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_10/CompFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="17" selection-start-line="29" selection-start-column="16" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_17_FX/FXSkelet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
           </folding>
         </state>
       </provider>
