@@ -22,7 +22,7 @@ public class FXSkelet extends Application {
     public void start(Stage myStage) {
         System.out.println("Body of the method Start");
 
-        myStage.setTitle("The frame for the app");
+        myStage.setTitle("The frame for the app");  //заголовок окна
 
         //Корневой узел
         FlowPane rootNode = new FlowPane();
