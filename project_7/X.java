@@ -28,7 +28,7 @@ class Incompat {
 
         // COMPATIBLE TYPE - так как Y - подкласс суперкласса X
 
-        System.out.println(x2);
+        System.out.println(y);
 
     }
 }

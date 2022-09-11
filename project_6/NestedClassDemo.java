@@ -17,7 +17,7 @@ class Outer {
     }
 
 
-    //СОЗДАЕМ ВНУТРЕНИИЙ КЛАСС
+    //СОЗДАЕМ ВНУТРЕННИЙ КЛАСС
 
     class Inner {
 
@@ -61,6 +61,7 @@ public class NestedClassDemo {
     public static void main (String args[]){
         int x[] = {3, 5, 7, 6, 8, 2, 1};
         Outer outOb = new Outer(x);
+
 
         outOb.Analyze();
     }

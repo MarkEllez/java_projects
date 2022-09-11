@@ -24,6 +24,11 @@ package project_8;
         start = x;
         val = x;
     }
+
+    public void setEnd (int x){
+        start = x;
+        val = x;
+    }
 }
 
 
@@ -42,5 +47,6 @@ class SeriesDemo {
         for (int i = 0; i < 5; i++) {
             System.out.println(ob.getNext());
         }
+
     }
 }

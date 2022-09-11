@@ -4,7 +4,7 @@ public class Squares {
     public static void main (String args[]){
         int sq [][] = {
                 {1, 1},
-                {2, 4},
+                {2, 4, 5},
                 {3, 9},
                 {4, 16},
                 {5, 25},
@@ -22,6 +22,7 @@ public class Squares {
             System.out.print(sq[i][j] + " ");
             System.out.println();
         }
+        System.out.println(sq[1].length);
 
     }
 }

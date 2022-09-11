@@ -8,7 +8,7 @@ public class RWData {
         double d = 1023.56;
         boolean b = true;
 
-//создаем объекти типа FileOutputStream для записи байтов в файл
+//создаем объект типа FileOutputStream для записи байтов в файл
 //создаем объект типа DataOutputStream для записи примитивных типов данных
         try (DataOutputStream dataOut = new DataOutputStream(new FileOutputStream("testdata"))){
             System.out.println("Wrote " + i);

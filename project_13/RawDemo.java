@@ -24,5 +24,6 @@ public class RawDemo {
         double d = (Double) raw.getOb();      //объявляем переменную и даем ей значение = имя_объекта.имя_метода
 
         System.out.println(d);
+
     }
 }

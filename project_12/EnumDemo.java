@@ -24,7 +24,7 @@ public class EnumDemo {
 
         switch (tp) {
             case CAR:
-                System.out.println("машинки");
+                System.out.println("cars");
                 break;
             case BOAT:
                 System.out.println("boats");

@@ -20,7 +20,8 @@ public class CopyFile {
 
             do {
                 i = fin.read();
-                if (i != -1) fout.write(i);
+                if (i != -1)
+                    fout.write(i);
             }
             while (i != -1);
         }

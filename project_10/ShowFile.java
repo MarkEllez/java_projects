@@ -7,7 +7,7 @@ public class ShowFile {
         int i;
         FileInputStream fin;
 
-        if (args.length != 1){
+        if (args.length != 0){
             System.out.print("Usage: ShowFile test.txt");
             return;
         }
